@@ -22,5 +22,6 @@ ReactDOM.render(
       <Route path="/" component={Components} />
     </Switch>
   </Router>,
+  //document.getElementById("root")
   document.getElementById("root")
 );
